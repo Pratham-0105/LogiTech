@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "267493502183",
+    "project_id": "loditech-67f6a",
+    "storage_bucket": "loditech-67f6a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267493502183:android:3095c386ad3c932fc90642",
+        "android_client_info": {
+          "package_name": "com.example.loditech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwFAt0kmd4Yl6l1LemKXgm8d8Zh8h6jbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
